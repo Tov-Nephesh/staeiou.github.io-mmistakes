@@ -1,5 +1,6 @@
 ---
 title: Academic Articles
+permalink: /articles/
 ---
 
 <ul>
