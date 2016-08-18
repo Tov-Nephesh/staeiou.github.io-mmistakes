@@ -3,7 +3,7 @@ id: 788
 title: 'Trace Ethnography: A Retrospective'
 date: 2016-03-28T18:55:01+00:00
 author: stuart
-layout: post
+layout: posts
 guid: http://stuartgeiger.com/wordpress/?p=788
 permalink: /2016/03/trace-ethnography-a-retrospective/
 spacious_page_layout:
