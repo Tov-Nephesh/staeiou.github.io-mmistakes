@@ -1,7 +1,7 @@
 ---
 title: "Black-boxing the user: internet protocol over xylophone players (IPoXP)"
 category: articles
-permalink: /articles/2012-altchi-ipoxp.md
+permalink: /articles/2012-altchi-ipoxp.html
 ---
 
 Geiger, R. Stuart, Yoon J. Jeong, and Emily Manders (2012). “Black-Boxing the User: Internet Protocol over Xylophone Players.” In Proceedings of the 2012 ACM Conference on Human-Computer Interaction (alt.CHI 2012). New York: ACM Digital Library. http://stuartgeiger.com/ipoxp.pdf

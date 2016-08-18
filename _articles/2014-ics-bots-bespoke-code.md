@@ -1,7 +1,7 @@
 ---
 title: "Bots, bespoke code, and the materiality of software platforms"
 category: articles
-permalink: /articles/2014-ics-bots-bespoke-code.md
+permalink: /articles/2014-ics-bots-bespoke-code.html
 ---
 
 Geiger, R. Stuart. (2014). “Bots, Bespoke Code, and the Materiality of Software Platforms.” Information, Communication, and Society 17.  http://stuartgeiger.com/bespoke-code-ics.pdf

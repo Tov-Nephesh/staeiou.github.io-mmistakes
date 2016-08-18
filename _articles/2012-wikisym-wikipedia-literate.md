@@ -1,7 +1,7 @@
 ---
 title: "“Writing up rather than writing down”: Becoming Wikipedia Literate"
 category: articles
-permalink: /articles/2012-wikisym-wikipedia-literate.md
+permalink: /articles/2012-wikisym-wikipedia-literate.html
 ---
 
 Ford, Heather and R. Stuart Geiger. (2012). “”Writing up rather than writing down”: Becoming Wikipedia Literate.” In Proceedings of the 8th International Symposium on Wikis and Open Collaboration (WikiSym 2012). New York: ACM Digital Library. http://www.stuartgeiger.com/becoming-wikipedia-literate.pdf

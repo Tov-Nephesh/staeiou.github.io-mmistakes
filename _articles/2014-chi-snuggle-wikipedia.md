@@ -1,7 +1,7 @@
 ---
 title: "Snuggle: Designing for efﬁcient socialization and ideological critique"
 category: articles
-permalink: /articles/2014-chi-snuggle-wikipedia.md
+permalink: /articles/2014-chi-snuggle-wikipedia.html
 ---
 
 Halfaker, Aaron., Geiger, R. Stuart., and Treveen, Loren. (2014). “Snuggle: Designing for Efﬁcient Socialization and Ideological Critique.” In Proceedings of the 2014 ACM Conference on Human Factors in Computing (CHI 2014). http://www-users.cs.umn.edu/~halfak/publications/Snuggle/halfaker14snuggle-personal.pdf

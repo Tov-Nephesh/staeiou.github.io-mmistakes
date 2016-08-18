@@ -1,7 +1,7 @@
 ---
 title: "The Next Generation of Scientists: Examining the Experiences of Graduate Students in Network-Level Social-Ecological Science"
 category: articles
-permalink: /articles/2013-ecosoc-lter-students.md
+permalink: /articles/2013-ecosoc-lter-students.html
 ---
 
 Romolini, Michele., Sydne Record, Rebecca. Garvoille, Y. Marusenko, and R. Stuart Geiger. (2013) “The Next Generation of Scientists: Examining the Experiences of Graduate Students in Network-Level Science.”  In Ecology and Society 18(3). http://stuartgeiger.com/lter-network-level-science-es.pdf

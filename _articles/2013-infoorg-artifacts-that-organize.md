@@ -1,7 +1,7 @@
 ---
 title: "Artifacts that Organize: Delegation in the Distributed Organization"
 category: articles
-permalink: /articles/2013-infoorg-artifacts-that-organize.md
+permalink: /articles/2013-infoorg-artifacts-that-organize.html
 ---
 
 Ribes, David, Steve Jackson, R. Stuart Geiger, Matt C. Burton, and Tom Finholt (2013). “Artifacts that organize: Delegation in the distributed organization.” Information and Organization 23:1–14. http://www.stuartgeiger.com/artifacts-that-organize.pdf

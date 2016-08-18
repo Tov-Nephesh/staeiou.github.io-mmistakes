@@ -1,7 +1,7 @@
 ---
 title: "Defense Mechanism or Socialization Tactic? Improving Wikipedia’s Notifications to Rejected Contributors"
 category: articles
-permalink: /articles/2012-icwsm-socialization-wikipedia.md
+permalink: /articles/2012-icwsm-socialization-wikipedia.html
 ---
 
 Geiger, R. Stuart, Aaron Halfaker, Maryana Pinchuk, and Steven Walling (2012). “Defense Mechanism or Socialization Tactic?  Improving Wikipedia’s Notifications to Rejected Contributors.” In Proceedings of the 2012 International Conference on Weblogs and Social Media (ICWSM 2012). http://stuartgeiger.com/defense-mechanism-icwsm.pdf

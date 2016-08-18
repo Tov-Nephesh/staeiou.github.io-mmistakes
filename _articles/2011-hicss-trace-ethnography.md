@@ -1,7 +1,7 @@
 ---
 title: "Trace Ethnography: Following Coordination through Documentary Practices"
 category: articles
-permalink: /articles/2011-hicss-trace-ethnography.md
+permalink: /articles/2011-hicss-trace-ethnography.html
 ---
 
 Geiger, R. Stuart and David Ribes (2011). “Trace Ethnography: Following Coordination through Documentary Practices.”  In Proceedings of the 44th Annual Hawaii International Conference on System Sciences (HICSS). http://www.stuartgeiger.com/trace-ethnography-hicss-geiger-ribes.pdf

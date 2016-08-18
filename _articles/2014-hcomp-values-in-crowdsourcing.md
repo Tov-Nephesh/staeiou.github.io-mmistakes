@@ -1,7 +1,7 @@
 ---
 title: "Defining, Designing, and Evaluating Civic Values in Human Computation and Collective Action Systems"
 category: articles
-permalink: /articles/2014-hcomp-values-in-crowdsourcing.md
+permalink: /articles/2014-hcomp-values-in-crowdsourcing.html
 ---
 
 Matias, N. and Geiger, R.S. “Defining, Designing, and Evaluating Civic Values in Human Computation and Collective Action Systems.” In Proceedings of HCOMP 2014, Citizen-X Workshop. http://stuartgeiger.com/defining-civic-values-hcomp-matias-geiger.pdf.

@@ -1,7 +1,7 @@
 ---
 title: "The Lives of Bots"
 category: articles
-permalink: /articles/2011-cpov-lives-of-bots.md
+permalink: /articles/2011-cpov-lives-of-bots.html
 ---
 
 Geiger, R. Stuart. (2011). “The Lives of Bots.” In G. Lovink and N. Tkacz (eds.) In Wikipedia: A Critical Point of View. Amsterdam: Institute of Network Cultures. http://www.stuartgeiger.com/lives-of-bots-wikipedia-cpov.pdf

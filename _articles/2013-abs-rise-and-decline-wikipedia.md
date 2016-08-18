@@ -1,7 +1,7 @@
 ---
 title: "The Rise and Decline of an Open Collaboration Community: How Wikipedia’s reaction to sudden popularity is causing its decline"
 category: articles
-permalink: /articles/2013-abs-rise-and-decline-wikipedia.md
+permalink: /articles/2013-abs-rise-and-decline-wikipedia.html
 ---
 
 Halfaker, Aaron., R. Stuart Geiger, Jonathan Morgan, and John Riedl. (2013). “The Rise and Decline of an Open Collaboration System: How Wikipedia’s reaction to sudden popularity is killing it.” American Behavioral Scientist 57(5). http://dx.doi.org/10.1177/0002764212469365

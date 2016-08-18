@@ -1,7 +1,7 @@
 ---
 title: "Bot-based collective blocklists in Twitter: the counterpublic moderation of harassment in a networked public space"
 category: articles
-permalink: /articles/2016-blockbots-ics.md
+permalink: /articles/2016-blockbots-ics.html
 ---
 
 Geiger, R. Stuart. (2016). “Bot-based collective blocklists in Twitter: the counterpublic moderation of harassment in a networked public space.” Information, Communication, and Society 19(6). http://stuartgeiger.com/blockbots-ics.pdf

@@ -1,7 +1,7 @@
 ---
 title: "Participation in Wikipedia’s Article Deletion Processes"
 category: articles
-permalink: /articles/2011-wikisym-article-deletion.md
+permalink: /articles/2011-wikisym-article-deletion.html
 ---
 
 Geiger, R. Stuart and Heather Ford. (2011) “Participation in Wikipedia’s Deletion Processes.” In Proceedings of the 7th International Symposium on Wikis and Open Collaboration (WikiSym 2011). New York: ACM Digital Library. http://www.stuartgeiger.com/papers/article-deletion-wikisym-geiger-ford.pdf

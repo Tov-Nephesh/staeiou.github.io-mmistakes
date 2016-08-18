@@ -1,7 +1,7 @@
 ---
 title: "Old Against New, or a Coming of Age? Broadcasting in an Era of Electronic Media."
 category: articles
-permalink: /articles/2014-jobem-old-against-new.md
+permalink: /articles/2014-jobem-old-against-new.html
 ---
 
 Geiger, R. Stuart and Lampinen, Airi. (2014). “Old Against New, or a Coming of Age? Broadcasting in an Era of Electronic Media.” Journal of Broadcasting and Electronic Media 58(3). http://www.stuartgeiger.com/jobem.pdf
