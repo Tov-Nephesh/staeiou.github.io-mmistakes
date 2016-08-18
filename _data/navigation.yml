@@ -4,13 +4,13 @@ main:
     url: /about/
 
   - title: "Blog Posts"
-    url: /blog/
+    url: /posts/
     
   - title: "Academic Articles"
-    url: /articles/
+    url: /articles.html
   
   - title: "Expressions"
-    url: /expressions/
+    url: /expressions.html
     
   - title: "CV"
     url: /cv/
