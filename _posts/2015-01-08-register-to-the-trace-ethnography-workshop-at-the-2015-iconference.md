@@ -1,5 +1,4 @@
 ---
-id: 726
 title: Come to the Trace Ethnography workshop at the 2015 iConference!
 date: 2015-01-08T16:23:09+00:00
 author: stuart
