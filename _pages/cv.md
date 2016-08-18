@@ -12,9 +12,7 @@ author_profile: true
 
 # **R. Stuart Geiger**
 
-**Curriculum Vitae**
-
-stuart at  stuartgeiger.com | [http://www.stuartgeiger.com](http://www.stuartgeiger.com/) | [@staeiou](http://www.twitter.com/staeiou) | [Google Scholar](http://is.gd/geiger_cites)
+## **Curriculum Vitae**
 
 ## Education:
 
@@ -51,7 +49,7 @@ stuart at  stuartgeiger.com | [http://www.stuartgeiger.com](http://www.stuartg
   {% unless collection.output == false or collection.label == "posts" %}
     {% capture label %}{{ collection.label }}{% endcapture %}
     {% if label != written_label %}
-      <h3 id="{{ label | slugify }}" class="archive__subtitle">{{ label }}</h3>
+      <h4 id="{{ label | slugify }}" class="archive__subtitle">{{ label }}</h4>
       {% capture written_label %}{{ label }}{% endcapture %}
     {% endif %}
   {% endunless %}
