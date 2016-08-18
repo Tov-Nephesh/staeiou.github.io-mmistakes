@@ -228,3 +228,7 @@ compress_html:
     envs: development
 
 include: ["_pages"]
+
+collections:
+- articles
+- expressions
