@@ -1,11 +1,7 @@
 ---
-id: 564
 title: Bots, bespoke code, and the materiality of software platforms
 date: 2014-01-06T21:22:54+00:00
 author: stuart
-layout: post
-guid: http://stuartgeiger.com/wordpress/?p=564
-permalink: /2014/01/bots-bespoke-code-and-the-materiality-of-software-platforms/
 spacious_page_layout:
   - default_layout
 categories:
