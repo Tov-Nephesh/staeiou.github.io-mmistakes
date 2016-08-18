@@ -4,4 +4,4 @@ excerpt: "An algorithmically-generated robots.txt, which disallows all bots with
 collection: expressions
 ---
 
-2014/05/robots-txt/
+[Read the post](/2014/05/robots-txt/).
