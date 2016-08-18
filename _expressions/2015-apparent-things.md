@@ -1,6 +1,7 @@
 ---
-title: Apparent Things
-excerpt: A Twitter bot powered by tweets proclaiming that something ‘is apparently a thing.’
+title: robots.txt.php
+excerpt: An algorithmically-generated robots.txt, which disallows all bots with one exception: the bot requesting the file is allowed full access.
 collection: expressions
 ---
-A Twitter bot powered by tweets proclaiming that something ‘is apparently a thing.’ See the [bot on Twitter](http://twitter.com/apparent_things).
+
+2014/05/robots-txt/
