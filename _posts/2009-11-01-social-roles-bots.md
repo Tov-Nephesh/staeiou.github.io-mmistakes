@@ -1,5 +1,6 @@
 ---
 title: The social roles of bots and assisted editing programs
+category: articles
 ---
 Geiger, R. Stuart (2009). “The Social Roles of Bots and Assisted Editing Tools.”  In Proceedings of the 5th International Symposium on Wikis and Open Collaboration. New York: ACM Digital Library.  http://dx.doi.org/10.1145/1641309.1641351
 
