@@ -7,10 +7,10 @@ main:
     url: /posts/
     
   - title: "Academic Articles"
-    url: /articles.html
+    url: /articles/
   
   - title: "Expressions"
-    url: /expressions.html
+    url: /expressions/
     
   - title: "CV"
     url: /cv/
