@@ -2,7 +2,7 @@
 title: "Trace Ethnography Workshop"
 category: workshop
 permalink: /talks/2015-03-24-iconf-trace-ethno
-excerpt: '<i>Workshop talk at ISchools Conference, 2015-03-24</i><br/>
+excerpt: '<i>Workshop talk at ISchools Conference, 2015-03-24</i><br/>'
 date: 2015-03-24
 ---
 
