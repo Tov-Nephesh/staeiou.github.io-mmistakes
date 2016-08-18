@@ -1,5 +1,5 @@
 ---
-title: IPoXP, InternetProtocol over Xylophone Players
+title: IPoXP, Internet Protocol over Xylophone Players
 collection: expressions
 ---
 
