@@ -3,7 +3,6 @@ id: 653
 title: 'A dynamically-generated robots.txt: will search engine bots recognize themselves?'
 date: 2014-05-14T01:37:02+00:00
 author: stuart
-layout: post
 guid: http://stuartgeiger.com/wordpress/?p=653
 permalink: /2014/05/robots-txt/
 spacious_page_layout:
