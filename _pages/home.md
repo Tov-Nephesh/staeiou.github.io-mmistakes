@@ -7,7 +7,7 @@ header:
   cta_label: "<i class='fa fa-download'></i> Install Now"
   cta_url: "/docs/quick-start-guide/"
   caption:
-excerpt: 'computational ethnographer | ethnographer of computation'
+excerpt: 'computational ethnographer & ethnographer of computation'
 feature_row:
   - image_path: mm-customizable-feature.png
     alt: "customizable"
