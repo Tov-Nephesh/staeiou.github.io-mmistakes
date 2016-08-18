@@ -1,7 +1,5 @@
 ---
-title: The Social Roles of Bots and Assisted Editing Tools
+title: IPoXP, InternetProtocol over Xylophone Players
 ---
 
-Geiger, R. Stuart (2009). “The Social Roles of Bots and Assisted Editing Tools.”  In Proceedings of the 5th International Symposium on Wikis and Open Collaboration. New York: ACM Digital Library.  http://dx.doi.org/10.1145/1641309.1641351
-
-A short paper showing the recent explosive growth of automated editors (or bots) in Wikipedia, which have taken on many new tasks in administrative spaces.
+We introduce IP over Xylophone Players (IPoXP), a novel Internet protocol between two computers using xylophone-based Arduino interfaces. In our implementation, human operators are situated within the lowest layer of the network, transmitting data between computers by striking designated keys. We discuss how IPoXP inverts the traditional mode of human-computer interaction, with a computer using the human as an interface to communicate with another computer
