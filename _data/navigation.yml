@@ -12,6 +12,9 @@ main:
   - title: "Expressions"
     url: /expressions/
     
+  - title: "Talks"
+    url: /talks/    
+
   - title: "CV"
     url: /cv/
   
