@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "R. Stuart Geiger"
 title_separator          : "-"
-name                     : &name "R. Stuart GeigeR"
+name                     : &name "R. Stuart Geiger"
 description              : &description "computational ethnographer & ethnographer of computation"
 url                      : https://staeiou.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -167,10 +167,10 @@ collections:
   docs:
     output: true
     permalink: /:collection/:path/
-  recipes:
+  articles:
     output: true
     permalink: /:collection/:path/
-  pets:
+  expressions:
     output: true
     permalink: /:collection/:path/
   portfolio:
@@ -210,19 +210,19 @@ defaults:
       comments: false
       sidebar:
         nav: "docs"
-  # _recipes
+  # _articles
   - scope:
       path: ""
-      type: recipes
+      type: articles
     values:
       layout: single
       author_profile: true
       share: true
       comments: true
-  # _pets
+  # _expressions
   - scope:
       path: ""
-      type: pets
+      type: expressions
     values:
       layout: single
       author_profile: true
