@@ -4,7 +4,7 @@ main:
     url: /about/
 
   - title: "Blog Posts"
-    url: /posts/
+    url: /year-archive/
     
   - title: "Academic Articles"
     url: /articles/
