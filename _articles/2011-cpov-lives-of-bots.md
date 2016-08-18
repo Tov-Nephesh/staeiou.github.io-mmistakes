@@ -1,9 +1,10 @@
 ---
 title: "The Lives of Bots"
 category: articles
-permalink: /articles/2011-cpov-lives-of-bots.html
+permalink: /articles/2011-cpov-lives-of-bots
 ---
 
-Geiger, R. Stuart. (2011). “The Lives of Bots.” In G. Lovink and N. Tkacz (eds.) In Wikipedia: A Critical Point of View. Amsterdam: Institute of Network Cultures. http://www.stuartgeiger.com/lives-of-bots-wikipedia-cpov.pdf
+<a href='http://www.stuartgeiger.com/papers/lives-of-bots-wikipedia-cpov.pdf'Download PDF here</a>
 
-Abstract:I describe the complex social and technical environment in which bots exist in Wikipedia, emphasizing not only how bots produce order and enforce rules, but also how humans produce bots and negotiate rules around their operation.
+Abstract: I describe the complex social and technical environment in which bots exist in Wikipedia, emphasizing not only how bots produce order and enforce rules, but also how humans produce bots and negotiate rules around their operation.
+Citation: Geiger, R. Stuart. (2011). “The Lives of Bots.” In G. Lovink and N. Tkacz (eds.) In Wikipedia: A Critical Point of View. Amsterdam: Institute of Network Cultures. http://www.stuartgeiger.com/lives-of-bots-wikipedia-cpov.pdf
