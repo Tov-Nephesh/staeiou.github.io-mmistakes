@@ -2,6 +2,7 @@
 title: "When the Levee Breaks: Without Bots, What Happens to Wikipedia’s Quality Control Processes?"
 category: articles
 permalink: /articles/2013-wikisym-levee-breaks-bots
+date: 2013
 ---
 
 <a href='http://stuartgeiger.com/wikisym13-cluebot.pdf'Download PDF here</a>

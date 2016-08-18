@@ -2,6 +2,7 @@
 title: "Bot-based collective blocklists in Twitter: the counterpublic moderation of harassment in a networked public space"
 category: articles
 permalink: /articles/2016-blockbots-ics
+date: 2016
 ---
 
 <a href='http://stuartgeiger.com/blockbots-ics.pdf'Download PDF here</a>

@@ -2,6 +2,7 @@
 title: "Does Habermas Understand the Internet? The Algorithmic Construction of the Blogo/Public Sphere"
 category: articles
 permalink: /articles/2009-gnovis-habermas-understand-internet
+date: 2009
 ---
 
 <a href='http://www.stuartgeiger.com/papers/gnovis-habermas-blogopublic-sphere.pdf'Download PDF here</a>

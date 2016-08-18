@@ -2,6 +2,7 @@
 title: "Defining, Designing, and Evaluating Civic Values in Human Computation and Collective Action Systems"
 category: articles
 permalink: /articles/2014-hcomp-values-in-crowdsourcing
+date: 2014
 ---
 
 <a href='http://stuartgeiger.com/defining-civic-values-hcomp-matias-geiger.pdf'Download PDF here</a>

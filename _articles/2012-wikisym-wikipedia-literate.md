@@ -2,6 +2,7 @@
 title: "“Writing up rather than writing down”: Becoming Wikipedia Literate"
 category: articles
 permalink: /articles/2012-wikisym-wikipedia-literate
+date: 2012
 ---
 
 <a href='http://www.stuartgeiger.com/writing-up-wikisym.pdf'Download PDF here</a>

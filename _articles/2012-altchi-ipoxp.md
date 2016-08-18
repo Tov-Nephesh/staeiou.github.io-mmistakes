@@ -2,6 +2,7 @@
 title: "Black-boxing the user: internet protocol over xylophone players (IPoXP)"
 category: articles
 permalink: /articles/2012-altchi-ipoxp
+date: 2012
 ---
 
 <a href='http://stuartgeiger.com/ipoxp.pdf'Download PDF here</a>

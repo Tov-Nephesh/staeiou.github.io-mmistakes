@@ -2,6 +2,7 @@
 title: "The Work of Sustaining Order in Wikipedia: The Banning of a Vandal"
 category: articles
 permalink: /articles/2010-cscw-banning-vandal
+date: 2010
 ---
 
 <a href='http://www.stuartgeiger.com/papers/cscw-sustaining-order-wikipedia.pdf'Download PDF here</a>

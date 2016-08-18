@@ -2,6 +2,7 @@
 title: "Old Against New, or a Coming of Age? Broadcasting in an Era of Electronic Media."
 category: articles
 permalink: /articles/2014-jobem-old-against-new
+date: 2014
 ---
 
 <a href='http://www.stuartgeiger.com/jobem.pdf'Download PDF here</a>

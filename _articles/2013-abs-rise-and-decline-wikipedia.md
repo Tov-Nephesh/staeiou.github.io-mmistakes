@@ -2,6 +2,7 @@
 title: "The Rise and Decline of an Open Collaboration Community: How Wikipedia’s reaction to sudden popularity is causing its decline"
 category: articles
 permalink: /articles/2013-abs-rise-and-decline-wikipedia
+date: 2013
 ---
 
 <a href='http://www-users.cs.umn.edu/~halfak/publications/The_Rise_and_Decline/halfaker12rise-preprint.pdf'Download PDF here</a>

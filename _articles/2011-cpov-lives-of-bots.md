@@ -2,6 +2,7 @@
 title: "The Lives of Bots"
 category: articles
 permalink: /articles/2011-cpov-lives-of-bots
+date: 2011
 ---
 
 <a href='http://www.stuartgeiger.com/papers/lives-of-bots-wikipedia-cpov.pdf'Download PDF here</a>

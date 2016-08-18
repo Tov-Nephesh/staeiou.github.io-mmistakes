@@ -2,6 +2,7 @@
 title: "Artifacts that Organize: Delegation in the Distributed Organization"
 category: articles
 permalink: /articles/2013-infoorg-artifacts-that-organize
+date: 2013
 ---
 
 <a href='http://www.stuartgeiger.com/artifacts-that-organize.pdf'Download PDF here</a>

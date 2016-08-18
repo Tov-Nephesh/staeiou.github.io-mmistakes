@@ -2,6 +2,7 @@
 title: "Bots, bespoke code, and the materiality of software platforms"
 category: articles
 permalink: /articles/2014-ics-bots-bespoke-code
+date: 2014
 ---
 
 <a href='http://stuartgeiger.com/bespoke-code-ics.pdf'Download PDF here</a>

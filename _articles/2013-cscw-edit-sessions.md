@@ -2,6 +2,7 @@
 title: "Using Edit Sessions to Measure Participation in Wikipedia"
 category: articles
 permalink: /articles/2013-cscw-edit-sessions
+date: 2013
 ---
 
 <a href='http://www.stuartgeiger.com/cscw-sessions.pdf'Download PDF here</a>

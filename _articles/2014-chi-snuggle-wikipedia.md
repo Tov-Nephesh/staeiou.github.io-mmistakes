@@ -2,6 +2,7 @@
 title: "Snuggle: Designing for efﬁcient socialization and ideological critique"
 category: articles
 permalink: /articles/2014-chi-snuggle-wikipedia
+date: 2014
 ---
 
 <a href='http://www-users.cs.umn.edu/~halfak/publications/Snuggle/halfaker14snuggle-personal.pdf'Download PDF here</a>

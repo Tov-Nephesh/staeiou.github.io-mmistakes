@@ -2,6 +2,7 @@
 title: "Defense Mechanism or Socialization Tactic? Improving Wikipedia’s Notifications to Rejected Contributors"
 category: articles
 permalink: /articles/2012-icwsm-socialization-wikipedia
+date: 2012
 ---
 
 <a href='http://stuartgeiger.com/defense-mechanism-icwsm.pdf'Download PDF here</a>

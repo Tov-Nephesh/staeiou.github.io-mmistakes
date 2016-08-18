@@ -2,6 +2,7 @@
 title: "Trace Ethnography: Following Coordination through Documentary Practices"
 category: articles
 permalink: /articles/2011-hicss-trace-ethnography
+date: 2011
 ---
 
 <a href='http://www.stuartgeiger.com/trace-ethnography-hicss-geiger-ribes.pdf'Download PDF here</a>

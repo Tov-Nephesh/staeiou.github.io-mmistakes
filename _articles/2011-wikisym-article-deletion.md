@@ -2,6 +2,7 @@
 title: "Participation in Wikipedia’s Article Deletion Processes"
 category: articles
 permalink: /articles/2011-wikisym-article-deletion
+date: 2011
 ---
 
 <a href='http://www.stuartgeiger.com/papers/article-deletion-wikisym-geiger-ford.pdf'Download PDF here</a>

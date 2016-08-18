@@ -2,6 +2,7 @@
 title: "The Next Generation of Scientists: Examining the Experiences of Graduate Students in Network-Level Social-Ecological Science"
 category: articles
 permalink: /articles/2013-ecosoc-lter-students
+date: 2013
 ---
 
 <a href='http://stuartgeiger.com/lter-network-level-science-es.pdf'Download PDF here</a>

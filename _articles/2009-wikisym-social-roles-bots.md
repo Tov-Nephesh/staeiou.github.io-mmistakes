@@ -2,6 +2,7 @@
 title: "The Social Roles of Bots and Assisted Editing Tools"
 category: articles
 permalink: /articles/2009-wikisym-social-roles-bots
+date: 2009
 ---
 
 <a href='http://www.stuartgeiger.com/papers/geiger-wikisym-bots.pdf'Download PDF here</a>
