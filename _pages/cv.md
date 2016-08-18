@@ -45,6 +45,8 @@ stuart at  stuartgeiger.com | [http://www.stuartgeiger.com](http://www.stuartg
     * User interface evaluation, including experimental design, A/B testing, and analysis
     * Inductive, mixed-methodological approaches to answer complex socio-technical questions and problems using all of the above methods, as appropriate and relevant
 
+## Publications
+
 {% for collection in site.collections %}
   {% unless collection.output == false or collection.label == "posts" %}
     {% capture label %}{{ collection.label }}{% endcapture %}
