@@ -1,5 +1,4 @@
 ---
-id: 788
 title: 'Trace Ethnography: A Retrospective'
 date: 2016-03-28T18:55:01+00:00
 ---
