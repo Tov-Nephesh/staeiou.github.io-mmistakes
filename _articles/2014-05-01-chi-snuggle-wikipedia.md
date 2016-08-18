@@ -2,7 +2,7 @@
 title: "Snuggle: Designing for efﬁcient socialization and ideological critique"
 category: articles
 permalink: /articles/2014-05-01-chi-snuggle-wikipedia
-excerpt: 'This paper discusses the Snuggle project, built to support newcomer socialization and reflexive critique of Wikipedia's existing socialization processes.'
+excerpt: 'This paper discusses the Snuggle project, built to support newcomer socialization and reflexive critique of Wikipedias existing socialization processes.'
 date: 2014-05-01
 ---
 <a href='http://www-users.cs.umn.edu/~halfak/publications/Snuggle/halfaker14snuggle-personal.pdf'>Download PDF here</a>
