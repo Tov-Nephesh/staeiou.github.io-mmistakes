@@ -15,8 +15,8 @@ url                      : https://staeiou.github.io # the base hostname & proto
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "staeiou/staeiou.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
-breadcrumbs              : true # true, false (default)
-words_per_minute         : 200
+breadcrumbs              : false # true, false (default)
+words_per_minute         : 160
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
