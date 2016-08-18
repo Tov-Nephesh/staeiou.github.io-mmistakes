@@ -2,7 +2,7 @@
 title: "The Work of Sustaining Order in Wikipedia: The Banning of a Vandal"
 category: articles
 permalink: /articles/2010-02-25-cscw-banning-vandal
-excerpt: '<i>Proceedings of CSCW 2010, 2010</i><br/>This paper traces out a heterogeneous network of humans and non-humans involved in the identification and banning of a single vandal in Wikipedia.'
+excerpt: '<i>Published in Proceedings of CSCW , 2010</i><br/>This paper traces out a heterogeneous network of humans and non-humans involved in the identification and banning of a single vandal in Wikipedia.'
 date: 2010-02-25
 ---
 

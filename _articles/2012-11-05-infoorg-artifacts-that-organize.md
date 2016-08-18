@@ -2,7 +2,7 @@
 title: "Artifacts that Organize: Delegation in the Distributed Organization"
 category: articles
 permalink: /articles/2012-11-05-infoorg-artifacts-that-organize
-excerpt: '<i>Information and Organization, 2012</i><br/>This paper studies the role of computational infrastructure and organizational structure in the Open Science Grid.'
+excerpt: '<i>Published in Information and Organization, 2012</i><br/>This paper studies the role of computational infrastructure and organizational structure in the Open Science Grid.'
 date: 2012-11-05
 ---
 

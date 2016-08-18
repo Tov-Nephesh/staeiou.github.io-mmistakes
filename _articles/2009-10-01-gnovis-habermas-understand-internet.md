@@ -2,7 +2,7 @@
 title: "Does Habermas Understand the Internet? The Algorithmic Construction of the Blogo/Public Sphere"
 category: articles
 permalink: /articles/2009-10-01-gnovis-habermas-understand-internet
-excerpt: '<i>Gnovis, 2009</i><br/>Habermasians have been debating about the role of the Internet in the public sphere, but they have all taken for granted the highly-automated software infrastructures that mediate our knowledge of the blogosphere.'
+excerpt: '<i>Published in Gnovis, 2009</i><br/>Habermasians have been debating about the role of the Internet in the public sphere, but they have all taken for granted the highly-automated software infrastructures that mediate our knowledge of the blogosphere.'
 date: 2009-10-01
 ---
 

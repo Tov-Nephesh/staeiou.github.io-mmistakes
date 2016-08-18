@@ -2,7 +2,7 @@
 title: "The Lives of Bots"
 category: articles
 permalink: /articles/2011-11-01-cpov-lives-of-bots
-excerpt: '<i>Wikipedia: A Critical Point of View, 2011</i><br/>I describe the complex social and technical environment in which bots exist in Wikipedia, emphasizing not only how bots produce order and enforce rules, but also how humans produce bots and negotiate rules around their operation.'
+excerpt: '<i>Published in Wikipedia: A Critical Point of View, 2011</i><br/>I describe the complex social and technical environment in which bots exist in Wikipedia, emphasizing not only how bots produce order and enforce rules, but also how humans produce bots and negotiate rules around their operation.'
 date: 2011-11-01
 ---
 
