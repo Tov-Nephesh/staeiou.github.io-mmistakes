@@ -4,9 +4,6 @@ permalink: /
 header:
   overlay_color: "#5e616c"
   overlay_image: mm-home-page-feature.jpg
-  cta_label: "<i class='fa fa-download'></i> Install Now"
-  cta_url: "/docs/quick-start-guide/"
-  caption:
 excerpt: 'computational ethnographer & ethnographer of computation'
 feature_row:
   - image_path: mm-customizable-feature.png
