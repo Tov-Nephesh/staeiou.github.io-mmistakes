@@ -2,7 +2,7 @@
 title: "“Writing up rather than writing down”: Becoming Wikipedia Literate"
 category: articles
 permalink: /articles/2012-08-29-wikisym-wikipedia-literate
-excerpt: 'We introduce and advocate a multi-faceted theory of literacy to investigate the knowledges and organizational forms are required to improve participation in Wikipedia’s communities.'
+excerpt: '<i>Proceedings of WikiSym 2012, 2012</i><br/>We introduce and advocate a multi-faceted theory of literacy to investigate the knowledges and organizational forms are required to improve participation in Wikipedia’s communities.'
 date: 2012-08-29
 ---
 

@@ -2,7 +2,7 @@
 title: "Participation in Wikipedia’s Article Deletion Processes"
 category: articles
 permalink: /articles/2011-10-05-wikisym-article-deletion
-excerpt: 'This paper investigates Wikipedia&apos;s article deletion processes, finding that it is heavily populated by specialists.'
+excerpt: '<i>Proceedings of WikiSym 2011, 2011</i><br/>This paper investigates Wikipedia&apos;s article deletion processes, finding that it is heavily populated by specialists.'
 date: 2011-10-05
 ---
 

@@ -2,7 +2,7 @@
 title: "When the Levee Breaks: Without Bots, What Happens to Wikipedia’s Quality Control Processes?"
 category: articles
 permalink: /articles/2013-08-03-wikisym-levee-breaks-bots
-excerpt: 'This paper examines what happened when one of Wikipedia&apos;s counter-vandalism bots unexpectedly went offline.'
+excerpt: '<i>Proceedings of WikiSym 2013, 2013</i><br/>This paper examines what happened when one of Wikipedia&apos;s counter-vandalism bots unexpectedly went offline.'
 date: 2013-08-03
 ---
 
