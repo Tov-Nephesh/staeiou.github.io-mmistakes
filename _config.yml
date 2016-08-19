@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "R. Stuart Geiger"
 title_separator          : "-"
 name                     : &name "R. Stuart Geiger"
-description              : &description "computational ethnographer & ethnographer of computation"
+description              : &description "computational ethnographer<br/>ethnographer of computation"
 url                      : https://staeiou.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "staeiou/staeiou.github.io"
@@ -248,7 +248,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
